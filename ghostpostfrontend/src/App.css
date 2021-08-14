@@ -1,0 +1,34 @@
+#contentHolder {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.postHolder {
+  background-color: #d2eb34;
+  width: 25%;
+  margin: 15px 0 15px 0;
+  border: 1px solid black;
+
+}
+
+.text {
+  background-color: white;
+}
+
+#formHolder {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#cpform {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#postText {
+  width: 300px;
+  height: 300px;
+}
